@@ -1,25 +1,30 @@
-<img align="left" width="80" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="left" width="90" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
-### welcome to Caulifields's github...
+### welcome to **caulifields's** github ⋆｡˚ ☁︎ ˚｡⋆｡
 
-૮₊˚⊹ 👩🏻‍💻 : tech enthusiast
+₊˚⊹ ୨୧ 👩🏻‍💻 engineering student who loves tech and creative things
 
-I’m Asha, currently studying Physics Engineering and passionate about artificial intelligence and data science.
+I’m **Asha Auralifia**, currently studying Engineering Physics at Institut Teknologi Sepuluh Nopember and based in Surabaya 🎀  
 
-I am building projects in IoT, machine learning and system development.  
-Currently improving my skills in data analysis.
+I am an **Assistant Laboratory of Embedded & Cyber Physical Systems**,  
+currently learning coding and working hard to improve my programming skills ✿  
 
-I’ve worked on academic and practical projects including early flood warning systems and embedded programming.
+Passionate about embedded systems, automation, and cyber-physical technology —  
+while also living my soft creative life as a video editor & graphic designer ♡  
 
-Outside of tech, I enjoy organizing events, learning new tools and exploring creative ideas.
+building systems by day, editing visuals by night ☁︎
 
+---
 
-### personal info
+### personal info ୨୧
 
-- Engineering Physics Student  
-- Laboratory Assistant (ECS)
-- Tech & AI Enthusiast  
-- Interested in IoT, Data Science & Automation  
+- 🎓 Engineering Physics Student  
+- 🧠 Assistant Lab: ECS  
+- 💻 Currently learning programming  
+- 🎬 Video Editor  
+- 🎨 Graphic Designer  
+- ✨ Future Tech Engineer  
+ 
 
  🌐 :
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashaauraa_)
