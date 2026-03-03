@@ -1,4 +1,6 @@
-<img align="left" width="90" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/73008aea-5795-43df-8620-6e80a8b97bf3" />
+
+
 
 ### welcome to **caulifields's** github ⋆｡˚ ☁︎ ˚｡⋆｡
 
