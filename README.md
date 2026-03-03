@@ -1,4 +1,4 @@
-<img align="left" width="90" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://giphy.com/gifs/NovaStarGame-code-broken-coding-XOijEXIPqGCC4M1w1F)" />
+<img align="left" width="90" src="(https://giphy.com/gifs/NovaStarGame-code-broken-coding-XOijEXIPqGCC4M1w1F)" />
 
 
 ### welcome to **caulifields's** github ⋆｡˚ ☁︎ ˚｡⋆｡
