@@ -1,5 +1,4 @@
-<img width="480" height="440" alt="image" src="https://github.com/user-attachments/assets/73008aea-5795-43df-8620-6e80a8b97bf3" />
-
+<img align="left" width="90" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://giphy.com/gifs/NovaStarGame-code-broken-coding-XOijEXIPqGCC4M1w1F)" />
 
 
 ### welcome to **caulifields's** github ⋆｡˚ ☁︎ ˚｡⋆｡
