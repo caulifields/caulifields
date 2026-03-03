@@ -6,6 +6,8 @@
 ₊˚⊹ ୨୧ 👩🏻‍💻 engineering student who loves tech and creative things
 
 
+
+
 I’m **Asha Auralifia**, currently studying Engineering Physics at Institut Teknologi Sepuluh Nopember and based in Surabaya 🎀  
 
 I am an **Assistant Laboratory of Embedded & Cyber Physical Systems**,  
